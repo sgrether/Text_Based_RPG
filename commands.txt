@@ -1,0 +1,7 @@
+look
+move
+inventory
+quit
+grab
+attack
+climb
